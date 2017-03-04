@@ -1,0 +1,6 @@
+---
+title: 'Homework #5'
+author: "Ian James"
+date: "February 27, 2017"
+output: word_document
+---
